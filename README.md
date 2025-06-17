@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded system development
 - 🌱 I’m currently learning embedded system and auto sar
 - 💞️ I’m looking to collaborate on innovative projects
-- 📫 contact adhilnazr756@gmail.com
+- 📫 contact adhilnazar756@gmail.com
 
 
 <!---
